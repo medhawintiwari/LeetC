@@ -5,10 +5,11 @@ public:
         int high = x;
         while (low <= high) {
             long long mid = low + (high - low) / 2;
-            long long val = (mid * mid);
-            if (val <= x) {
+            long long val = mid*mid;
+            if (val<=x) {
                 low = mid + 1;
-            } else {
+            }
+            else {
                 high = mid - 1;
             }
         }
