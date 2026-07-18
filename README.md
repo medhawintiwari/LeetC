@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/medhawintiwari/LeetC/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/medhawintiwari/LeetC/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/medhawintiwari/LeetC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/medhawintiwari/LeetC/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/medhawintiwari/LeetC/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/medhawintiwari/LeetC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/medhawintiwari/LeetC/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 <!---LeetCode Topics End-->
