@@ -20,4 +20,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/medhawintiwari/LeetC/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/medhawintiwari/LeetC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/medhawintiwari/LeetC/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/medhawintiwari/LeetC/tree/master/0567-permutation-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/medhawintiwari/LeetC/tree/master/0567-permutation-in-string) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/medhawintiwari/LeetC/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/medhawintiwari/LeetC/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
