@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/medhawintiwari/LeetC/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/medhawintiwari/LeetC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/medhawintiwari/LeetC/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/medhawintiwari/LeetC/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/medhawintiwari/LeetC/tree/master/0567-permutation-in-string) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/medhawintiwari/LeetC/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/medhawintiwari/LeetC/tree/master/0567-permutation-in-string) |
+## Sorting
+|  |
+| ------- |
+| [1636-sort-array-by-increasing-frequency](https://github.com/medhawintiwari/LeetC/tree/master/1636-sort-array-by-increasing-frequency) |
 <!---LeetCode Topics End-->
