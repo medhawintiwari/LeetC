@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/medhawintiwari/LeetC/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/medhawintiwari/LeetC/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/medhawintiwari/LeetC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/medhawintiwari/LeetC/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/medhawintiwari/LeetC/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Array
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/medhawintiwari/LeetC/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/medhawintiwari/LeetC/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/medhawintiwari/LeetC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/medhawintiwari/LeetC/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/medhawintiwari/LeetC/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/medhawintiwari/LeetC/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
