@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/medhawintiwari/LeetC/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/medhawintiwari/LeetC/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/medhawintiwari/LeetC/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/medhawintiwari/LeetC/tree/master/0334-increasing-triplet-subsequence) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/medhawintiwari/LeetC/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/medhawintiwari/LeetC/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/medhawintiwari/LeetC/tree/master/1539-kth-missing-positive-number) |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/medhawintiwari/LeetC/tree/master/1552-magnetic-force-between-two-balls) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/medhawintiwari/LeetC/tree/master/1636-sort-array-by-increasing-frequency) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/medhawintiwari/LeetC/tree/master/0334-increasing-triplet-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/medhawintiwari/LeetC/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
