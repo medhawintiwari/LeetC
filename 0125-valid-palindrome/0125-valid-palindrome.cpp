@@ -1,20 +1,17 @@
-
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string filtered = "";
-        
-        // Step 1: Filter and lowercase
+        string filtered;
         for (char c : s) {
             if (isalnum(c)) {
-                filtered += tolower(c);
+                filtered+=tolower(c);
             }
         }
-        
-        // Step 2: Compare with its reversed version
-        string reversed_str = filtered;
-        reverse(reversed_str.begin(), reversed_str.end());
-        
-        return filtered == reversed_str;
+        string reversed = filtered;
+        reverse(reversed.begin(), reversed.end());
+        if (filtered==reversed) {
+            return true;
+        }
+        return false;
     }
 };
