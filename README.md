@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/medhawintiwari/LeetC/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/medhawintiwari/LeetC/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/medhawintiwari/LeetC/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/medhawintiwari/LeetC/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/medhawintiwari/LeetC/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/medhawintiwari/LeetC/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/medhawintiwari/LeetC/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/medhawintiwari/LeetC/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/medhawintiwari/LeetC/tree/master/0334-increasing-triplet-subsequence) |
+| [1903-largest-odd-number-in-string](https://github.com/medhawintiwari/LeetC/tree/master/1903-largest-odd-number-in-string) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
