@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/medhawintiwari/LeetC/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/medhawintiwari/LeetC/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/medhawintiwari/LeetC/tree/master/0567-permutation-in-string) |
+| [1021-remove-outermost-parentheses](https://github.com/medhawintiwari/LeetC/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -82,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/medhawintiwari/LeetC/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/medhawintiwari/LeetC/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/medhawintiwari/LeetC/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
